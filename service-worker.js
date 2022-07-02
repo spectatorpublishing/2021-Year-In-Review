@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/2022-Year-In-Review/precache-manifest.f7bcfb9ffd94404d45e1f425bbd6c1b9.js"
+  "/2022-Year-In-Review/precache-manifest.c5a5ffb62b90e0ea7b0b6ff1d6e9a42d.js"
 );
 
 self.addEventListener('message', (event) => {
