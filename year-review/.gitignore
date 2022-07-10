@@ -3,17 +3,17 @@
 *.pdf
 
 # dependencies
-/year-review/node_modules
-/year-review/package-lock.json
-/year-review/yarn.lock
+/node_modules
+/package-lock.json
+/yarn.lock
 /.pnp
 .pnp.js
 
 # testing
-/year-review/coverage
+/coverage
 
 # production
-/year-review/build
+/build
 
 # misc
 .DS_Store

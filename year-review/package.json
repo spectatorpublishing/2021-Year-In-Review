@@ -2,7 +2,7 @@
   "name": "year-review",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yir20-21.columbiadailyspectator.com/",
+  "homepage": "https://spectatorpublishing.github.io/2022-Year-In-Review/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
